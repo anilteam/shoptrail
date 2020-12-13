@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Shoprail</string>
+    <string name="no_internet">No Connection</string>
+    <string name="no_internet_desc"> Please check your internet connection and try again</string>
+    <string name="home">HOME</string>
+    <string name="categories">CATEGORIES</string>
+    <string name="cart">CART</string>
+    <string name="search">SEARCH</string>
+    <string name="me">ME</string>
+
+</resources>
